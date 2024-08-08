@@ -1,0 +1,83 @@
+.hero-section {
+    background-color: #f8f9fa;
+}
+
+.collections-section h2 {
+    margin-bottom: 1.5rem;
+}
+
+.collaboration-section h2 {
+    margin-bottom: 1.5rem;
+}
+
+.best-seller-section h2 {
+    margin-bottom: 1.5rem;
+}
+
+.newsletter-section {
+    background-color: #f8f9fa;
+    padding: 3rem 1rem;
+}
+
+.footer-section {
+    background-color: #343a40;
+    color: #fff;
+    padding: 1.5rem 0;
+}
+
+.footer-section h5 {
+    margin-bottom: 1rem;
+}
+
+.footer-section a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.footer-section a:hover {
+    text-decoration: underline;
+}
+
+
+.ratings{
+    margin-right:10px;
+}
+
+.ratings i{
+    
+    color:#cecece;
+    font-size:32px;
+}
+
+.rating-color{
+    color:#fbc634 !important;
+}
+
+.review-count{
+    font-weight:400;
+    margin-bottom:2px;
+    font-size:24px !important;
+}
+
+.small-ratings i{
+  color:#cecece;   
+}
+
+.review-stat{
+    font-weight:300;
+    font-size:18px;
+    margin-bottom:2px;
+}
+.card:hover {
+    background-color: #c9c9c9; /* Background color on hover */
+}
+.row {
+    display: flex;
+  }
+  
+  .column {
+    flex: 50%; 
+}
+  hr{
+    border: 1px solid white;
+  }
